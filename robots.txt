@@ -1,0 +1,2 @@
+User-agent: *
+sitemap: https://www.bozemaninteractive.com//sitemap.xml
